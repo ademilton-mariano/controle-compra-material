@@ -167,10 +167,7 @@ yarn-error.log
 /libpeerconnection.log
 testem.log
 /typings
-.angular/cache/*
-.angular\cache\*
 
 # System files
 .DS_Store
 Thumbs.db
-
