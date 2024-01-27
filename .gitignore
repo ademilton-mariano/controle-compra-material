@@ -168,6 +168,7 @@ yarn-error.log
 testem.log
 /typings
 .angular/cache/*
+.angular\cache\*
 
 # System files
 .DS_Store
