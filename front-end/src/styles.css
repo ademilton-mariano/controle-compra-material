@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* Estilos para smartphones */
+@media only screen and (min-width: 320px) {
+  /* Estilos específicos para smartphones */
+}
+
+/* Estilos para tablets */
+@media only screen and (min-width: 768px) {
+  /* Estilos específicos para tablets */
+}
+
+/* Estilos para desktops comuns */
+@media only screen and (min-width: 1024px) {
+  /* Estilos específicos para desktops comuns */
+}
+
+/* Estilos para desktops grandes/monitores */
+@media only screen and (min-width: 1280px) {
+  /* Estilos específicos para desktops grandes/monitores */
+}
